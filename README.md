@@ -1,5 +1,8 @@
 # blendOS Tracks
 
+
+* [!NEW] Budgie: `budgie`
+
 * GNOME: `gnome`
 * Plasma: `plasma`
 * Cinnamon: `cinnamon`
@@ -13,7 +16,7 @@
 ```
 repo: 'https://pkg-repo.blendos.co/'
 
-impl: 'https://github.com/blend-os/tracks/raw/main'
+impl: 'https://github.com/rorita0x/tracks/raw/main'
 
 track: 'gnome'
 ```
@@ -23,7 +26,7 @@ track: 'gnome'
 ```
 repo: 'https://pkg-repo.blendos.co/'
 
-impl: 'https://github.com/blend-os/tracks/raw/main'
+impl: 'https://github.com/rorita0x/tracks/raw/main'
 
 track: 'gnome'
 

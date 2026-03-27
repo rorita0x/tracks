@@ -81,7 +81,7 @@ packages:
   - 'mkinitcpio-nfs-utils'
   - 'modemmanager'
   - 'mtools'
-  - 'nano'
+  - 'vim'
   - 'nbd'
   - 'ndisc6'
   - 'nfs-utils'

@@ -1,0 +1,20 @@
+impl: 'https://github.com/rorita0x/tracks/raw/main'
+
+track: 'blendos-base'
+
+packages:
+  - 'firefox'
+  - 'chromium'
+  - 'google-chrome'
+  - 'ark'
+  - 'steam'
+  - 'go'
+  - 'kotlin'
+  - 'teamspeak3'
+  - 'kdeconnect'
+
+
+aur-packages:
+  - 'syncthing-gtk'
+  - 'vscodium-bin'
+  - 'jetbrains-toolbox'
