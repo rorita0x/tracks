@@ -1,0 +1,17 @@
+impl: 'https://github.com/rorita0x/tracks/raw/main'
+
+track: '0x-base'
+
+packages:
+  - 'budgie'
+  - 'papirus-icon-theme'
+  - 'xed'
+  - 'evince'
+  - 'totem'
+  - 'blueman'
+  - 'gnome-terminal'
+  - 'gdm''
+
+
+services:
+  - 'gdm'

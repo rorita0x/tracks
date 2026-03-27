@@ -1,7 +1,7 @@
 # blendOS Tracks
 
 
-* [!NEW] Budgie: `budgie`
+* [!NEEDS TESTING!] Budgie: `budgie`
 
 * GNOME: `gnome`
 * Plasma: `plasma`
