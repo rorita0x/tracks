@@ -136,3 +136,7 @@ services:
 
 user-services:
   - 'blend-files'
+
+commands:
+  - 'systemctl enable NetworkManager'
+  - 'systemctl enable bluetooth'
