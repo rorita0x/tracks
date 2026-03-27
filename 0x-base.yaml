@@ -12,6 +12,7 @@ packages:
   - 'kotlin'
   - 'teamspeak3'
   - 'kdeconnect'
+  - 'thunderbird'
 
 
 aur-packages:
