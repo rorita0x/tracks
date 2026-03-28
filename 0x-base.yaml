@@ -13,6 +13,10 @@ packages:
   - 'teamspeak3'
   - 'kdeconnect'
   - 'thunderbird'
+  - 'gwenview'
+  - 'mpv'
+  - 'vlc'
+  - 'gimp'
 
 
 aur-packages:
