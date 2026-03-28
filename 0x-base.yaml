@@ -3,6 +3,8 @@ impl: 'https://github.com/rorita0x/tracks/raw/main'
 track: 'blendos-base'
 
 packages:
+  - 'zsh'
+  - 'zsh-completions'
   - 'firefox'
   - 'chromium'
   - 'google-chrome'
@@ -23,3 +25,6 @@ aur-packages:
   - 'syncthing-gtk'
   - 'vscodium-bin'
   - 'jetbrains-toolbox'
+
+commands:
+  - 'sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"'
