@@ -75,6 +75,8 @@ packages:
   - 'man-pages'
   - 'mc'
   - 'mdadm'
+  - 'mesa-utils'
+  - 'lib32-mesa-utils'
   - 'memtest86+'
   - 'mkinitcpio'
   - 'mkinitcpio-archiso'
