@@ -13,6 +13,7 @@ packages:
   - 'coreutils'
   - 'file'
   - 'filesystem-blend'
+  - 'fprintd'
   - 'findutils'
   - 'gawk'
   - 'gcc-libs'
@@ -75,6 +76,8 @@ packages:
   - 'man-pages'
   - 'mc'
   - 'mdadm'
+  - 'mesa-utils'
+  - 'lib32-mesa-utils'
   - 'memtest86+'
   - 'mkinitcpio'
   - 'mkinitcpio-archiso'
@@ -134,6 +137,7 @@ services:
   - 'bluetooth'
   - 'NetworkManager'
   - 'power-profiles-daemon'
+  - 'fprintd'
 
 user-services:
   - 'blend-files'
