@@ -21,7 +21,7 @@ packages:
   - 'vlc'
   - 'gimp'
   - 'kate'
-
+  - 'dolphin'
 
 aur-packages:
   - 'syncthing-gtk'
