@@ -22,6 +22,15 @@ packages:
   - 'gimp'
   - 'kate'
   - 'dolphin'
+  - 'okular'
+  - 'plasma-systemmonitor'
+  - 'unzip'
+  - 'unrar'
+  - 'spectacle'
+  - 'filelight'
+  - 'partitionmanager'
+  - 'ghostwriter'
+  - 'yt-dlp'
 
 aur-packages:
   - 'syncthing-gtk'
