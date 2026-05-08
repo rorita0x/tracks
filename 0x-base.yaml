@@ -31,6 +31,7 @@ packages:
   - 'partitionmanager'
   - 'ghostwriter'
   - 'yt-dlp'
+  - 'drawy'
 
 aur-packages:
   - 'syncthing-gtk'
