@@ -13,6 +13,8 @@ packages:
   - 'gnome-terminal'
   - 'lightdm'
   - 'lightdm-gtk-greeter'
+  - 'gvfs'
+  - 'gvfs-dnssd'
 
 services:
   - 'lightdm'
